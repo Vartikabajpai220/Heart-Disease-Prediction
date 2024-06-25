@@ -7,4 +7,4 @@ This Machine Learning Model Helps in predicting heart disease using the data set
 3. sklearn
 4. logistic regression
 5. accuracy score as metric
-6. 
+
